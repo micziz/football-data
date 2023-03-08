@@ -1,0 +1,16 @@
+{
+    "name": "Newcastle",
+    "fullName": "Newcastle United Football Club",
+    "nicknames": [
+        "The Magpies"
+    ],
+    "ground": "St James' Park",
+    "honours": {
+        "premierLeague": "4",
+        "EFLchampionship": "4",
+        "FAcup": "6",
+        "FAcommunityShield": "1",
+        "interCitiesFairsCup": "1",
+        "UEFAinterotoCup": "1"
+    }
+}
