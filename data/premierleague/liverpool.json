@@ -1,0 +1,19 @@
+{
+    "name": "Liverpool",
+    "fullName": "Liverpool Football Club",
+    "nicknames": [
+        "The Reds"
+    ],
+    "ground": "Anfield",
+    "honours": {
+        "premierLeague": "19",
+        "secondDivision": "4",
+        "FAcup": "8",
+        "EFLcup": "9",
+        "FAcommunityShield": "16",
+        "UEFAchampionsLeague": "6",
+        "UEFAeuropaLeague": "3",
+        "UEFAsuperCup": "4",
+        "FIFAclubWorldCup": "1"
+    }
+}
