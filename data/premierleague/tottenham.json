@@ -1,0 +1,18 @@
+{
+    "name": "Tottenham",
+    "fullName": "Tottenham Hotspur Football Club",
+    "nicknames": [
+        "The Lilywhites"
+    ],
+    "ground": "Tottenham Hotspur Stadium",
+    "honours": {
+        "premierLeague": "2",
+        "EFLchampionship": "2",
+        "FAcup": "8",
+        "EFLcup": "4",
+        "FAcommunityShield": "7",
+        "sherrifOfLondonShield": "1",
+        "UEFAeuropaLeague": "1",
+        "UEFAcupWinnersCup": "2"
+    }
+}
