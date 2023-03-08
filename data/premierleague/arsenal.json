@@ -1,0 +1,16 @@
+{
+    "name": "Arsenal",
+    "fullName": "Arsenal Football Club",
+    "nicknames": [
+        "The Gunners"
+    ],
+    "ground": "Emirates Stadium",
+    "honours": {
+        "premierLeague": "13",
+        "FAcup": "14",
+        "EFLcup": "2",
+        "FAcommunityShield": "16",
+        "Inter Cities Fairs Cup": "1",
+        "UEFA Cup Winners Cup": "1"
+    }
+}

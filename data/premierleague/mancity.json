@@ -1,0 +1,18 @@
+{
+    "name": "Manchester City",
+    "fullName": "Manchester City Football Club",
+    "nicknames": [
+        "The Citizens",
+        "The Sky Blues"
+    ],
+    "ground": "Etihad Stadium",
+    "honours": {
+        "premierLeague": "8",
+        "EFLchampionship": "7",
+        "FAcup": "6",
+        "EFLcup": "8",
+        "fullMembersCup": "1",
+        "FAcommunityShield": "6",
+        "UEFA Cup Winners Cup": "1"
+    }
+}
