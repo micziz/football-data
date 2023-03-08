@@ -1,0 +1,16 @@
+{
+    "name": "Brighton",     
+    "fullName": "Brighton & Hove Albion Football Club",     
+    "nicknames": [         
+        "The Seagulls",
+        "Albion"     
+    ],     
+    "ground": "Falmer Stadium",     
+    "honours": {
+        "EFLleagueOne": "3",
+        "thridDivision": "2",
+        "southernLegue": "1",
+        "FAcommunityShield": "1",
+        "sussexSeniorChallengeCup": "15"
+    } 
+}
