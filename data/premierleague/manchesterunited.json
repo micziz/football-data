@@ -1,0 +1,22 @@
+{
+    "name": "Manchester United",
+    "fullName": "Manchester United Football Club",
+    "nicknames": [
+        "The Red Devils",
+        "United"
+    ],
+    "ground": "Old Trafford",
+    "honours": {
+        "premierLeague": "20",
+        "secondDivision": "2",
+        "FAcup": "12",
+        "EFLcup": "6",
+        "FAcommunityShield": "21",
+        "UEFAchampionsLeague": "3",
+        "UEFAeuropaLeague": "1",
+        "UEFAsuperCup": "1",
+        "UEFAcupWinnersCup": "1",
+        "FIFAclubWorldCup": "1",
+        "intercontinentalCup": "1"
+    }
+}
