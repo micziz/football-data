@@ -1,0 +1,13 @@
+{
+    "name": "Brentford",     
+    "fullName": "Brentford Football Club",     
+    "nicknames": [         
+        "The Bees"    
+    ],     
+    "ground": "Gtech Community Stadium",     
+    "honours": {
+        "EFLchampionship": "1",
+        "EFLleagueOne": "2",
+        "EFLleagueTwo": "3"
+    } 
+}
