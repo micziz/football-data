@@ -1,0 +1,16 @@
+{
+    "name": "West Ham",
+    "fullName": "West Ham United Football Club",
+    "nicknames": [
+        "The Irons",
+        "The Hammers"
+    ],
+    "ground": "London Stadium",
+    "honours": {
+        "EFLchampionship": "2",
+        "FAcup": "3",
+        "FAcommunityShield": "1",
+        "UEFAcupWinnersCup": "1",
+        "UEFAinterotoCup": "1"
+    }
+}
