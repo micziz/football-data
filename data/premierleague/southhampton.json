@@ -1,0 +1,12 @@
+{
+    "name": "Southampton",     
+    "fullName": "Southampton Football Club",     
+    "nicknames": [         
+        "The Saints"   
+    ],     
+    "ground": "St Mary's Stadium",     
+    "honours": {
+        "EFLleagueOne": "2",
+        "FAcup": "1"
+    } 
+}
