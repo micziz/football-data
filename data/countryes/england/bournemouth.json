@@ -1,6 +1,7 @@
 {
     "name": "Bournemouth",     
-    "fullName": "AFC Bournemouth",     
+    "fullName": "AFC Bournemouth",    
+    "playsIn": "Premier League", 
     "nicknames": [         
         "The Cherries",
         "Boscombe"     

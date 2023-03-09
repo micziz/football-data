@@ -1,6 +1,7 @@
 {
     "name": "Brentford",     
-    "fullName": "Brentford Football Club",     
+    "fullName": "Brentford Football Club",    
+    "playsIn": "Premier League", 
     "nicknames": [         
         "The Bees"    
     ],     

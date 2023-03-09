@@ -1,6 +1,7 @@
 {
     "name": "Fulham",     
-    "fullName": "Fulham Football Club",     
+    "fullName": "Fulham Football Club",   
+    "playsIn": "Premier League",  
     "nicknames": [         
         "The Cottagers"     
     ],     

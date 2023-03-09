@@ -1,6 +1,7 @@
 {
     "name": "Brighton",     
-    "fullName": "Brighton & Hove Albion Football Club",     
+    "fullName": "Brighton & Hove Albion Football Club",
+    "playsIn": "Premier League",     
     "nicknames": [         
         "The Seagulls",
         "Albion"     

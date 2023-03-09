@@ -1,6 +1,7 @@
 {
     "name": "Everton",     
-    "fullName": "Everton Football Club",     
+    "fullName": "Everton Football Club",    
+    "playsIn": "Premier League", 
     "nicknames": [         
         "The Blues",
         "The Toffees",

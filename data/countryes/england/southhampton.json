@@ -1,6 +1,7 @@
 {
     "name": "Southampton",     
     "fullName": "Southampton Football Club",     
+    "playsIn": "Premier League",
     "nicknames": [         
         "The Saints"   
     ],     

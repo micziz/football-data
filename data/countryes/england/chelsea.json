@@ -1,6 +1,7 @@
 {
     "name": "Chelsea",     
-    "fullName": "Chelsea Football Club",     
+    "fullName": "Chelsea Football Club",
+    "playsIn": "Premier League",     
     "nicknames": [         
         "The Blues"   
     ],     

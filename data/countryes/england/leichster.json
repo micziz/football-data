@@ -1,6 +1,7 @@
 {
     "name": "Leicester City",     
-    "fullName": "Leicester City Football Club",     
+    "fullName": "Leicester City Football Club", 
+    "playsIn": "Premier League",    
     "nicknames": [         
         "The Foxes"   
     ],     
