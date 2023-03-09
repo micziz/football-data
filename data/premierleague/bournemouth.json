@@ -1,0 +1,13 @@
+{
+    "name": "Bournemouth",     
+    "fullName": "AFC Bournemouth",     
+    "nicknames": [         
+        "The Cherries",
+        "Boscombe"     
+    ],     
+    "ground": "Vitality Stadium",     
+    "honours": {
+        "EFLchampionship": "1",
+        "EFLleagueOne": "1"
+    } 
+}
