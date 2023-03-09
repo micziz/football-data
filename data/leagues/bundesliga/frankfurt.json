@@ -1,0 +1,19 @@
+{
+    "name": "Frankfurt",
+    "fullName": "Eintracht Frankfurt e. V.",
+    "nicknames": [
+        "SGE (Sportgemeinde Eintracht)",
+        "Die Adler (The Eagles)",
+        "Launische Diva (Moody Diva)",
+        "Schlappekicker (Slipper Kickers)",
+        "Die Diva vom Main (The Diva From the Main)"
+    ],
+    "ground": "Deutsche Bank Park",
+    "honours": {
+        "bundesliga": "1",
+        "DFB-pokal": "5",
+        "2. bundesliga": "1",
+        "UEFAeuropaLeague": "2",
+        "UEFAinterotoCup": "1"
+    }
+}
