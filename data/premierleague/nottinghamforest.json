@@ -1,0 +1,22 @@
+{
+    "name": "Nottingham Forest",
+    "fullName": "Nottingham Forest Football Club",
+    "nicknames": [
+        "The Reds",
+        "The Tricky Trees",
+        "The Garibaldi"
+    ],
+    "ground": "City Ground",
+    "honours": {
+        "premierLeague": "1",
+        "EFLchampionship": "3",
+        "EFLleagueOne": "1",
+        "FAcup": "2",
+        "EFLcup": "4",
+        "FAcommunityShield": "1",
+        "fullMembersCup": "2",
+        "UEFAchampionsLeague": "2",
+        "UEFAsuperCup": "1",
+        "intercontinentalCup": "1"
+    }
+}

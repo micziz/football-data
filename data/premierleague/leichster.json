@@ -1,0 +1,21 @@
+{
+    "name": "Chelsea",     
+    "fullName": "Chelsea Football Club",     
+    "nicknames": [         
+        "The Blues"   
+    ],     
+    "ground": "Stamford Bridge",     
+    "honours": {
+        "premierLeague": "6",
+        "EFLchampionship": "2",
+        "FAcup": "8",
+        "EFLcup": "5",
+        "FAcommunityShield": "4",
+        "fullMembersCup": "2",
+        "UEFAchampionsLeague": "2",
+        "UEFAeuropaLeague": "2",
+        "UEFAcupWinnersCup": "2",
+        "UEFAsuperCup": "2",
+        "FIFAclubWorldCup": "1"
+    } 
+}
