@@ -1,0 +1,19 @@
+{
+    "name": "Everton",     
+    "fullName": "Everton Football Club",     
+    "nicknames": [         
+        "The Blues",
+        "The Toffees",
+        "The People's Club",
+        "The School of Science"     
+    ],     
+    "ground": "Goodison Park",     
+    "honours": {
+        "premierLeague": "9",
+        "EFLchampionship": "1",
+        "FAcup": "5",
+        "EFLcup": "2",
+        "FAcommunityShield": "9",
+        "UEFAcupWinnersCup": "1"
+    } 
+}
