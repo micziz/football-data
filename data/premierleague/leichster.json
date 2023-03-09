@@ -1,21 +1,16 @@
 {
-    "name": "Chelsea",     
-    "fullName": "Chelsea Football Club",     
+    "name": "Leicester City",     
+    "fullName": "Leicester City Football Club",     
     "nicknames": [         
-        "The Blues"   
+        "The Foxes"   
     ],     
-    "ground": "Stamford Bridge",     
+    "ground": "King Power Stadium",     
     "honours": {
-        "premierLeague": "6",
-        "EFLchampionship": "2",
-        "FAcup": "8",
-        "EFLcup": "5",
-        "FAcommunityShield": "4",
-        "fullMembersCup": "2",
-        "UEFAchampionsLeague": "2",
-        "UEFAeuropaLeague": "2",
-        "UEFAcupWinnersCup": "2",
-        "UEFAsuperCup": "2",
-        "FIFAclubWorldCup": "1"
+        "premierLeague": "1",
+        "EFLchampionship": "7",
+        "EFLleagueOne": "1",
+        "FAcup": "1",
+        "EFLcup": "3",
+        "FAcommunityShield": "2"
     } 
 }
