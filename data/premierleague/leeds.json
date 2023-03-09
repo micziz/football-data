@@ -1,0 +1,16 @@
+{
+    "name": "Leeds United",     
+    "fullName": "Leeds United Football Club",     
+    "nicknames": [         
+        "The Whites"     
+    ],     
+    "ground": "Elland Road",     
+    "honours": {
+        "premierLeague": "3",
+        "EFLchampionship": "4",
+        "FAcup": "1",
+        "EFLcup": "1",
+        "FAcommunityShield": "2",
+        "interCitiesFairsCup": "2"
+    } 
+}
